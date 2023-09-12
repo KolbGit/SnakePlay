@@ -35,7 +35,7 @@
             // cube
             // 
             cube.BackColor = SystemColors.HotTrack;
-            cube.Location = new Point(122, 112);
+            cube.Location = new Point(0, 0);
             cube.Name = "cube";
             cube.Size = new Size(40, 40);
             cube.TabIndex = 0;
