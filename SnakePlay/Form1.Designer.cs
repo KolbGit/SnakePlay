@@ -28,7 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             cube = new PictureBox();
+            timer = new System.Windows.Forms.Timer(components);
             ((System.ComponentModel.ISupportInitialize)cube).BeginInit();
             SuspendLayout();
             // 
@@ -56,5 +58,6 @@
         #endregion
 
         private PictureBox cube;
+        private System.Windows.Forms.Timer timer;
     }
 }
