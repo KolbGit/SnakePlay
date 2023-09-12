@@ -29,35 +29,20 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            cube = new PictureBox();
             timer = new System.Windows.Forms.Timer(components);
-            ((System.ComponentModel.ISupportInitialize)cube).BeginInit();
             SuspendLayout();
-            // 
-            // cube
-            // 
-            cube.BackColor = SystemColors.HotTrack;
-            cube.Location = new Point(0, 0);
-            cube.Name = "cube";
-            cube.Size = new Size(40, 40);
-            cube.TabIndex = 0;
-            cube.TabStop = false;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(366, 311);
-            Controls.Add(cube);
             Name = "Form1";
             Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)cube).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
-
-        private PictureBox cube;
         private System.Windows.Forms.Timer timer;
     }
 }
