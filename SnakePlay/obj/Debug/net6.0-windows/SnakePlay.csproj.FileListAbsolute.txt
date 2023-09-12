@@ -1,0 +1,16 @@
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\SnakePlay.Form1.resources
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\SnakePlay.csproj.GenerateResource.cache
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\SnakePlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\SnakePlay.AssemblyInfoInputs.cache
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\SnakePlay.AssemblyInfo.cs
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\SnakePlay.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\bin\Debug\net6.0-windows\SnakePlay.exe
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\bin\Debug\net6.0-windows\SnakePlay.deps.json
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\bin\Debug\net6.0-windows\SnakePlay.runtimeconfig.json
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\bin\Debug\net6.0-windows\SnakePlay.dll
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\bin\Debug\net6.0-windows\SnakePlay.pdb
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\SnakePlay.dll
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\refint\SnakePlay.dll
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\SnakePlay.pdb
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\SnakePlay.genruntimeconfig.cache
+C:\Users\Win 10\Downloads\SnakePlay\SnakePlay\obj\Debug\net6.0-windows\ref\SnakePlay.dll
